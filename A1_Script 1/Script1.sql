@@ -1,6 +1,4 @@
-
-/*Script 1
-
+/*
 Un videoclub que alquila películas en video almacena la información de sus películas en una tabla llamada "peliculas"; 
 Para cada película necesita los siguientes datos:
 -Nombre, cadena de caracteres de 50 longitud.
