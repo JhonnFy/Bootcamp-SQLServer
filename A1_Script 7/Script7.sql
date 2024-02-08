@@ -1,6 +1,4 @@
-
 /*
-Script 7
 Trabaje con la tabla "Agenda" en la que registra los datos de sus amigos.
 
 1-Elimine "Agenda" si existe.
