@@ -1,6 +1,4 @@
-
 /*
-Script 5.
 Una empresa almacena los datos de sus empleados en una tabla llamada "Empleados".
 
 Prerrequisitos:
