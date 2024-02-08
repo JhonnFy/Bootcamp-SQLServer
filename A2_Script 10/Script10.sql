@@ -1,5 +1,4 @@
 /*
-Script 10.
 Cree una tabla de usuarios, con los siguientes atributos: nombres, apellidos, edad, profesión. 
 
 Prerrequisitos:
@@ -10,8 +9,7 @@ Imprima todos los registros.
 Imprima todos los registros donde el nombre sea diferente de Jhon.
 Imprima todos los registros donde la edad sea superior a 18.
 Imprima todos los registros donde la profesión sea Software Developer.
-Imprima todos los registros donde la profesión sea Autor.
-*/
+Imprima todos los registros donde la profesión sea Autor.*/
 
 CREATE DATABASE DataUsuarios
 GO
