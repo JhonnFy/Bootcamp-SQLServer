@@ -1,5 +1,4 @@
-
-/*Script 2
+/*
 Una empresa almacena datos de sus empleados en una tabla "Empleados" que guarda los siguientes datos: Nombre, documento, sexo, domicilio, sueldo básico.
 
 Prerrequisitos:
