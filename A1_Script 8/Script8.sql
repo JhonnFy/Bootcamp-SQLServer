@@ -1,6 +1,5 @@
-
 /*
-Script 8: Trabaje con la tabla "Libros" de una librería que guarda información referente a sus libros disponibles para la venta.
+Trabaje con la tabla "Libros" de una librería que guarda información referente a sus libros disponibles para la venta.
 
 1-Elimine la tabla si existe.
 2-Cree la tabla de libros, con los siguientes atributos: título, autor, editorial.
