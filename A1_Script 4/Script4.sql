@@ -1,6 +1,4 @@
-
 /*
-Script 4.
 Un videoclub que alquila películas en video almacena la información de sus películas en alquiler en una tabla llamada "Películas".
 
 Prerrequisitos:
@@ -13,8 +11,8 @@ Prerrequisitos:
 7-Imprima el tirulo y la cantidad de copias realizadas.
 */
 
---CREATE DATABASE VideoClub
---GO
+CREATE DATABASE VideoClub
+GO
 
 USE VideoClub
 GO
