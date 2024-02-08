@@ -1,5 +1,4 @@
 /*
-Script 12
 Un videoclub que alquila películas en video almacena la información de sus películas en alquiler en una tabla denominada 'películas'.
 
 Prerrequisitos:
