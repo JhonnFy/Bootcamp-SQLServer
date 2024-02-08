@@ -1,8 +1,4 @@
-
-
-
 /*
-Script 11
 Un comercio que vende artículos de computación registra los datos de sus artículos en una tabla con ese nombre.
 
 Prerrequisitos:
@@ -12,11 +8,10 @@ Prerrequisitos:
 4-Ingresar n registros.
 5-Seleccione los datos de las impresoras (2 registros).
 6-Seleccione el código y el nombre de los artículos cuya cantidad sea menor a 30 (2 registros).
-8-Seleccione el precio y la descripción de los artículos que NO cuestan $100.000, pesos (2 registros).
-*/
+8-Seleccione el precio y la descripción de los artículos que NO cuestan $100.000, pesos (2 registros).*/
 
---CREATE DATABASE DataArticulos
---GO
+CREATE DATABASE DataArticulos
+GO
 
 USE DataArticulos
 GO
