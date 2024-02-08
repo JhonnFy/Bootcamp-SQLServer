@@ -1,6 +1,4 @@
-
 /*
-Script 6.
 Un usuario se registra en una plataforma para solicitar citas medicas, datos basicos de tipo  nombres, dni, número de localidad.
 
 Prerrequisitos:
@@ -12,8 +10,8 @@ Prerrequisitos:
 6-Imprima todos los usuarios cuyo numero de localidad sea 4
 */
 
---CREATE DATABASE DataCitasMedicas
---GO
+CREATE DATABASE DataCitasMedicas
+GO
 
 DROP TABLE IF EXISTS CitasMedicas
 GO
