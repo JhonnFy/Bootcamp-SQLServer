@@ -1,5 +1,4 @@
-
-/*Script 3
+/*
 Crear la tabla "Libros", con diferentes atributos, indispensable nombre del libro y de autor.
 
 Prerrequisitos:
